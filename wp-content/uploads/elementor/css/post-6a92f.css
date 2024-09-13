@@ -1,0 +1,50 @@
+.elementor-kit-6{--e-global-color-primary:#2C7BFC;--e-global-color-secondary:#54595F;--e-global-color-text:#7A7A7A;--e-global-color-accent:#94ADEA;--e-global-color-a4629bd:#113070;--e-global-color-dfa7522:#02010100;--e-global-color-a727a7a:#FFFFFF;--e-global-typography-primary-font-family:"yekan";--e-global-typography-primary-font-weight:300;--e-global-typography-secondary-font-family:"yekan";--e-global-typography-secondary-font-weight:100;--e-global-typography-text-font-family:"yekan";--e-global-typography-text-font-weight:400;--e-global-typography-accent-font-family:"yekan";--e-global-typography-accent-font-weight:500;font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-weight:var( --e-global-typography-primary-font-weight );--e-page-transition-entrance-animation:e-page-transition-fade-out;--e-page-transition-exit-animation:e-page-transition-fade-in;--e-page-transition-animation-duration:600ms;--e-preloader-animation:bounce;--e-preloader-animation-duration:1500ms;--e-preloader-delay:0ms;--e-preloader-width:150px;}.elementor-kit-6 a{color:var( --e-global-color-accent );font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-weight:var( --e-global-typography-primary-font-weight );}.elementor-kit-6 h1{font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-weight:var( --e-global-typography-accent-font-weight );}.elementor-kit-6 h2{font-family:"yekan", Sans-serif;font-size:25px;font-weight:500;line-height:1.5em;}.elementor-kit-6 h3{font-family:"yekan", Sans-serif;font-size:20px;font-weight:500;line-height:1.5em;}.elementor-kit-6 h4{font-family:"yekan", Sans-serif;font-size:18px;font-weight:500;line-height:1.5em;}.elementor-kit-6 h5{font-family:"yekan", Sans-serif;font-size:18px;font-weight:500;line-height:1.5em;}.elementor-kit-6 h6{font-family:"yekan", Sans-serif;font-size:18px;font-weight:500;line-height:1.5em;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:95vw;}.e-con{--container-max-width:95vw;}.elementor-widget:not(:last-child){margin-block-end:10px;}.elementor-element{--widgets-spacing:10px 10px;}{}h1.entry-title{display:var(--page-title-display);}.elementor-kit-6 e-page-transition{background-color:var( --e-global-color-primary );}.site-header .site-branding{flex-direction:column;align-items:stretch;}.site-header{padding-inline-end:0px;padding-inline-start:0px;}.site-footer .site-branding{flex-direction:column;align-items:stretch;}@media(max-width:1024px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:95vw;}.e-con{--container-max-width:95vw;}}@media(max-width:767px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:95vw;}.e-con{--container-max-width:95vw;}}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'yekan';
+	font-style: normal;
+	font-weight: 100;
+	font-display: auto;
+	src: url('../../2024/09/YekanBakhFaNum-Thin.woff2') format('woff2');
+}
+@font-face {
+	font-family: 'yekan';
+	font-style: normal;
+	font-weight: 200;
+	font-display: auto;
+	src: url('../../2024/09/YekanBakhFaNum-Light.woff2') format('woff2');
+}
+@font-face {
+	font-family: 'yekan';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('../../2024/09/YekanBakhFaNum-Regular.woff2') format('woff2');
+}
+@font-face {
+	font-family: 'yekan';
+	font-style: normal;
+	font-weight: 300;
+	font-display: auto;
+	src: url('../../2024/09/YekanBakhFaNum-Regular.woff2') format('woff2');
+}
+@font-face {
+	font-family: 'yekan';
+	font-style: normal;
+	font-weight: 500;
+	font-display: auto;
+	src: url('../../2024/09/YekanBakhFaNum-Bold.woff2') format('woff2');
+}
+@font-face {
+	font-family: 'yekan';
+	font-style: normal;
+	font-weight: bold;
+	font-display: auto;
+	src: url('../../2024/09/YekanBakhFaNum-Bold.woff2') format('woff2');
+}
+@font-face {
+	font-family: 'yekan';
+	font-style: normal;
+	font-weight: 900;
+	font-display: auto;
+	src: url('../../2024/09/YekanBakhFaNum-Black.woff2') format('woff2');
+}
+/* End Custom Fonts CSS */
